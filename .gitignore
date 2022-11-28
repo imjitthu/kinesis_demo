@@ -1,10 +1,11 @@
 ###### root/.gitgnore
 .terraform.lock.hcl
 
-# Local .terraform directories
+# Local unfanted directories directories
 **/.terraform/*
 .terraform/*
 .files/*
+**/.terraform/*
 
 # .tfstate files
 *.tfstate
